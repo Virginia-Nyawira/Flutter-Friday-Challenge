@@ -1,6 +1,7 @@
-# properties_app
+# properties_app UI
 
-A new Flutter application.
+Screenshots:
+
 
 ## Getting Started
 
